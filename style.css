@@ -573,6 +573,14 @@ footer {
 
 /* Responsive */
 @media (max-width: 768px) {
+  /* Disable expensive GPU/CPU tasks on mobile for better FCP */
+  .bg-blobs {
+    display: none;
+  }
+  .hero-image::before {
+    animation: none;
+    display: none;
+  }
   .hero {
     flex-direction: column-reverse;
     text-align: center;
