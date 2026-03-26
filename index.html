@@ -6,7 +6,11 @@
     <title>Alfred Sam D - Portfolio</title>
     <meta name="description" content="Portfolio of Alfred Sam D, specializing in full-stack dev, machine learning, and quantum computing.">
     <link rel="canonical" href="https://happday-bot.github.io/portfolio-alfred-sam-d//"> <!-- Replace with your actual domain when deploying -->
+    <!-- Preload Hero Image for LCP -->
+    <link rel="preload" as="image" href="profile.png" fetchpriority="high">
     <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
     <!-- Main Style -->
     <link rel="stylesheet" href="style.css">
@@ -33,7 +37,7 @@
 
     <main>
         <!-- Hero Section -->
-        <section id="hero" class="container hero reveal">
+        <section id="hero" class="container hero fade-in-up">
             <div class="hero-content">
                 <span class="hero-greeting">Welcome to my portfolio</span>
                 <h1>Hello, I'm <br><span>Alfred Sam D</span></h1>
@@ -43,8 +47,8 @@
                     <a href="#experience" class="btn btn-outline">View Experience</a>
                 </div>
             </div>
-            <div class="hero-image">
-                <img src="profile.png" alt="Alfred Sam D's Profile Avatar">
+            <div class="hero-image fade-in">
+                <img src="profile.png" alt="Alfred Sam D's Profile Avatar" width="350" height="350" fetchpriority="high">
             </div>
         </section>
 
