@@ -54,7 +54,8 @@ Alzheimer’s disease gene prediction presented the same in Global Platform of I
 ## Skills
 
 **Technical Skills**
-```Quantum Computing, Full-Stack Web Development, Machine Learning
+```
+Quantum Computing, Full-Stack Web Development, Machine Learning
 ```
 
 **Tools**
