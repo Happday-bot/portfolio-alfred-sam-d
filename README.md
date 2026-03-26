@@ -3,15 +3,15 @@
 ## Executive Summary
 ```
 A strong interest in research and development motivates exploration through continuous learning and navigation in new
-domains. Contributing to the field of quantum computing since Jan 2025. The wh questions and teaching has been my way of
-learning. With oppurtunities I am always ready to upgrade my skills.
+domains. Contributing to the field of quantum computing since Jan 2025. The wh questions and teaching have been my way of
+learning. With opportunities, I am always ready to upgrade my skills.
 ```
 ## Contact Details
 
 ```
 +91 8939868548
-Email: alfredsam2006@gmail.com
-Linkedin: https://www.linkedin.com/in/alfred-sam-d-b09305287/
+Email: [alfredsam2006@gmail.com]
+Linkedin: [https://www.linkedin.com/in/alfred-sam-d-b09305287/]
 Credly: https://www.credly.com/users/alfred-sam-d
 ```
 ## Experience in Quantum Computing
