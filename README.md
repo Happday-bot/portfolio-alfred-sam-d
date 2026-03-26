@@ -54,18 +54,25 @@ Alzheimer’s disease gene prediction presented the same in Global Platform of I
 ## Skills
 
 **Technical Skills**
-Quantum Computing, Full-Stack Web Development, Machine Learning
+```Quantum Computing, Full-Stack Web Development, Machine Learning
+```
 
 **Tools**
+```
 Python, C, Qiskit Library, MongoDB, FastApi, React
+```
 
 **Languages**
+```
 English, Tamil
+```
 
 **Global Certification**
+```
 IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
 Issued May 24, 2025, by IBM
 This helped me to cross-validate my knowledge in the basics of quantum information.
+```
 
 ## Educational Background
 **Bachelor of Engineering**
