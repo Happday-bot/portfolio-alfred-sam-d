@@ -8,11 +8,11 @@ learning. With opportunities, I am always ready to upgrade my skills.
 ```
 ## Contact Details
 
+Phone: +91 8939868548
 
-+91 8939868548
-[Email](mailto:alfredsam2006@gmail.com) &emsp
-[Linkedin](https://www.linkedin.com/in/alfred-sam-d-b09305287/) &emsp
-[ View Badges](https://www.credly.com/users/alfred-sam-d) &emsp
+[Email](mailto:alfredsam2006@gmail.com) &emsp;
+[Linkedin](https://www.linkedin.com/in/alfred-sam-d-b09305287/) &emsp;
+[ View Badges](https://www.credly.com/users/alfred-sam-d) &emsp;
 [Portfolio]
 
 ## Experience in Quantum Computing
