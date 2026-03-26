@@ -1,97 +1,102 @@
 # ALFRED SAM D
 
 ## Executive Summary
-```
-A strong interest in research and development motivates exploration through continuous learning and navigation in new
-domains. Contributing to the field of quantum computing since Jan 2025. The wh questions and teaching have been my way of
-learning. With opportunities, I am always ready to upgrade my skills.
-```
-## Contact Details
+> Research-driven Computer Science Engineer with a focused trajectory in Quantum Computing (since Jan 2025).  
+> Strong inclination toward continuous learning, problem decomposition, and knowledge dissemination.  
+> Actively contributing to quantum research, leveraging WH-question driven exploration and teaching as core learning strategies.  
+> Proactively upskilling to stay aligned with emerging technologies.
 
-Phone: +91 8939868548
+---
 
-[Email](mailto:alfredsam2006@gmail.com) &emsp;
-[Linkedin](https://www.linkedin.com/in/alfred-sam-d-b09305287/) &emsp;
-[ View Badges](https://www.credly.com/users/alfred-sam-d) &emsp;
-[Portfolio](https://happday-bot.github.io/portfolio-alfred-sam-d/)
+## Contact Information
+- **Phone:** +91 8939868548  
+- **Email:** alfredsam2006@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/alfred-sam-d-b09305287/  
+- **Badges:** https://www.credly.com/users/alfred-sam-d  
+- **Portfolio:** https://happday-bot.github.io/portfolio-alfred-sam-d/  
 
-## Experience in Quantum Computing
+---
 
-### Basics of Quantum Information
-Issued Jan 16, 2025 by IBM
-```
-Learnt about basic concepts like global phase, 3-qubit and 7-qubit Shor error correction codes, entanglement, CHSH,
-Circuit building.
-```
-### Joined Qiskit advocate program
-Aug 8, 2025, by IBM
-```
-IBM provided a very strong network of people to connect and learn. Attended IBM Quantum developer’s day, Sep 25,
-2025.
-```
-### Qiskit Global Summer School 2025 - Quantum Excellence
-Issued Aug 29, 2025, by IBM
-```
-Hands-on with a quantum computer for the first time, and learnt about Hamiltonians, quantum chemistry basics.
-```
-### Variational Algorithm Design
-Issued Oct 2, 2025, by IBM
-```
-Introduction to rotational gates, optimisation, sampler, estimator, and decomposition, proper ansatz formation.
-```
-### Quantum Machine Learning
-Issued Oct 31, 2025, by IBM
-```
-Quantum Support Vector Machines and Quantum Neural Networks using reuploading circuits along with encoding
-methods.
-```
-### Qiskit Advocate Mentorship Program 2025 Contributor
-Issued Feb 4, 2026, by IBM
-```
-Research from October 2025 to February 2026, using hybrid quantum machine learning for feature selection in
-Alzheimer’s disease gene prediction presented the same in Global Platform of IBM with my team.
-```
+## Quantum Computing Experience
+
+### IBM Quantum Certifications & Programs
+
+**Basics of Quantum Information** *(Jan 2025)*  
+- Covered global phase, entanglement, CHSH inequality  
+- Implemented 3-qubit & 7-qubit Shor error correction codes  
+- Built foundational quantum circuits  
+
+**Qiskit Advocate Program** *(Aug 2025)*  
+- Engaged with global quantum developer network  
+- Participated in IBM Quantum Developer’s Day (Sep 2025)  
+
+**Qiskit Global Summer School – Quantum Excellence** *(Aug 2025)*  
+- Hands-on execution on real quantum hardware  
+- Learned Hamiltonians & quantum chemistry fundamentals  
+
+**Variational Algorithm Design** *(Oct 2025)*  
+- Designed ansatz circuits & optimization workflows  
+- Worked with sampler, estimator & decomposition techniques  
+
+**Quantum Machine Learning** *(Oct 2025)*  
+- Built Quantum SVMs & Quantum Neural Networks  
+- Applied data encoding & reuploading techniques  
+
+**Qiskit Advocate Mentorship Contributor** *(Oct 2025 – Feb 2026)*  
+- Conducted research on Hybrid QML for Alzheimer’s gene prediction  
+- Presented work on a global IBM platform  
+
+---
+
 ## Skills
 
-**Technical Skills**
-```
-Quantum Computing, Full-Stack Web Development, Machine Learning
-```
+### Core Competencies
+- Quantum Computing  
+- Machine Learning  
+- Full-Stack Development  
 
-**Tools**
-```
-Python, C, Qiskit Library, MongoDB, FastApi, React
-```
+### Tech Stack
+- **Languages:** Python, C  
+- **Frameworks & Tools:** Qiskit, FastAPI, React  
+- **Database:** MongoDB  
 
-**Languages**
-```
-English, Tamil
-```
+### Languages
+- English  
+- Tamil  
 
-**Global Certification**
-```
-IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
-Issued May 24, 2025, by IBM
-This helped me to cross-validate my knowledge in the basics of quantum information.
-```
+---
 
-## Educational Background
-**Bachelor of Engineering**
-```
-Rajalakshmi Engineering College ( Sep 2023 - May 2027 )
-Specialization in Computer Science and Engineering
-```
-**Higher Education**
-```
-Bethel Marticulation Higher Secondary School ( June 2021 - May 2023 )
-11 th and 12th in Computer Science and Maths
-```
+## Certifications
 
-## Additional Information
+**IBM Certified Associate Developer**  
+*Quantum Computation using Qiskit v0.2X (May 2025)*  
+- Validated expertise in quantum fundamentals & circuit design  
 
-- Served as Team Lead in Intellexa Club.
-- Member of CodeSapiens, a student coding community.
-- AI member in Intellexa Club.
-- Participated in hackathons.
-- Participated in IBM INDIA Quantum Developer’s Day.
-- Adaptable with any situation and fast learner.
+---
+
+## Education
+
+**Bachelor of Engineering (CSE)**  
+Rajalakshmi Engineering College *(2023 – 2027)*  
+
+**Higher Secondary Education**  
+Bethel Matriculation Higher Secondary School *(2021 – 2023)*  
+- Computer Science & Mathematics  
+
+---
+
+## Leadership & Activities
+
+- Team Lead, Intellexa Club  
+- AI Member, Intellexa Club  
+- Member, CodeSapiens (Student Developer Community)  
+- Active hackathon participant  
+- Attended IBM India Quantum Developer’s Day  
+
+---
+
+## Key Strengths
+- Analytical thinking with research orientation  
+- Strong self-learning ability  
+- Cross-domain adaptability  
+- Leadership and collaboration skills  
